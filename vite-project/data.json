@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "nombre": "Cristiano Ronaldo",
+      "descripcion": "Delantero portugués, reconocido por su atletismo y potencia. Ha tenido una carrera destacada en clubes como Manchester United, Real Madrid y Juventus, y ha ganado numerosos títulos individuales y colectivos.",
+      "edad": 39,
+      "nacionalidad": "Portugal",
+      "posicion": "Delantero",
+      "equipoActual": "Al Nassr"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "delete": {}
+}
